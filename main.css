@@ -1,0 +1,20 @@
+h1 {
+  font-weight: bold;
+}
+
+main {
+  max-width: 800px;
+  justify-content: center;
+}
+
+.newtodo {
+  padding-right: 15px;
+}
+
+.mdl-grid.center-items {
+  justify-content: center;
+}
+
+p {
+  padding-top: 15px;
+}
